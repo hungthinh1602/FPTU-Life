@@ -1,0 +1,11 @@
+HR-Human Resource:
+E001,Nguyen Van Hoa,241
+E002,Tran Trung Truc,190
+E005,Tran Hung Dung,233
+E009,Dao Phung Hung Thinh,490
+TD-Technic Department:
+E008,Nguyen Van Toan,409
+E088,Kuong Thong Dat,94
+AP-Accouting Department:
+E231,Nguyen Hung Chi,902
+E099,Tran Thi Bich Chi,24

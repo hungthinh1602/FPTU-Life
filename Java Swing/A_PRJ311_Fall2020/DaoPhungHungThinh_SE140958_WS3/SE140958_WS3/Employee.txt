@@ -1,0 +1,3 @@
+003,Banana,2000
+113,Trung,20000
+SE140958,Dao Phung Hung Thinh,30000

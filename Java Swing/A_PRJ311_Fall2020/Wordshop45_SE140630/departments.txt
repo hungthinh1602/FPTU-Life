@@ -1,0 +1,8 @@
+HR-Human Resource:
+E111,Nguyen Van Thang,34
+E222,Tran Thanh Quan,456
+TD-Technical Department:
+E324,Van Thanh,654
+E989,Ha Quang Van,456
+E333,d,2
+HK-ong:
