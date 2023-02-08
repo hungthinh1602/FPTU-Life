@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+<%@ Register Src="UserControls\Banner.ascx" TagName="Banner" TagPrefix="uc1" %>
+<%@ Register Src="UserControls\Menu.ascx" TagName="Menu" TagPrefix="uc2" %>
+<%@ Register Src="UserControls\Ads.ascx" TagName="Ads" TagPrefix="uc3" %>
+
+<%@ Register src="UserControls/Banner.ascx" tagname="Banner" tagprefix="uc4" %>
+
+<%@ Register src="UserControls/Menu.ascx" tagname="Menu" tagprefix="uc5" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>Trang chủ bản tin điện tử</title>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <TABLE id="Table1" width="788" align="center">
+				<TR>
+					<TD colspan="3">
+                        <uc4:Banner ID="Banner1" runat="server" />
+                    </TD>
+				</TR>
+				<TR>
+					<TD width="217" bgcolor="#f2f7fb" valign="top">
+                        <uc5:Menu ID="Menu1" runat="server" />
+                    </TD>
+					<TD width="520" valign="top">
+        <asp:contentplaceholder id="ContentPlaceHolder1" runat="server">           
+        </asp:contentplaceholder>
+    </TD>
+					<TD width="200" bgcolor="#f2f7fb" align="center">
+                        &nbsp;<uc3:Ads ID="Ads1" runat="server" />
+                    </TD>
+				</TR>
+				<TR>
+					<TD colspan="3" bgcolor="#dde4f2">
+						<P align="center"><FONT color="#000099">Copyright @  <%= DateTime.Now.ToString("dddd,dd-MM-yyyy") %> by Tuoi tre</FONT></P>
+					</TD>
+				</TR>
+			</TABLE>
+    <div>
+        &nbsp;</div>
+    </form>
+</body>
+</html>

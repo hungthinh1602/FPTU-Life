@@ -1,0 +1,6 @@
+D:\Training\Projects\SimpleIoC-master\SimpleIoC\bin\Debug\SimpleIoC.exe
+D:\Training\Projects\SimpleIoC-master\SimpleIoC\bin\Debug\SimpleIoC.pdb
+D:\Training\Projects\SimpleIoC-master\SimpleIoC\obj\Debug\SimpleIoC.csprojAssemblyReference.cache
+D:\Training\Projects\SimpleIoC-master\SimpleIoC\obj\Debug\SimpleIoC.csproj.CoreCompileInputs.cache
+D:\Training\Projects\SimpleIoC-master\SimpleIoC\obj\Debug\SimpleIoC.exe
+D:\Training\Projects\SimpleIoC-master\SimpleIoC\obj\Debug\SimpleIoC.pdb

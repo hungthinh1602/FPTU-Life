@@ -1,0 +1,16 @@
+D:\TestCode\WIN\Train\IntroADO_NET\IntroADO_NET\bin\Debug\IntroADO_NET.exe
+D:\TestCode\WIN\Train\IntroADO_NET\IntroADO_NET\bin\Debug\IntroADO_NET.pdb
+D:\TestCode\WIN\Train\IntroADO_NET\IntroADO_NET\obj\Debug\IntroADO_NET.csprojResolveAssemblyReference.cache
+D:\TestCode\WIN\Train\IntroADO_NET\IntroADO_NET\obj\Debug\IntroADO_NET.frmMaintainBook.resources
+D:\TestCode\WIN\Train\IntroADO_NET\IntroADO_NET\obj\Debug\IntroADO_NET.Properties.Resources.resources
+D:\TestCode\WIN\Train\IntroADO_NET\IntroADO_NET\obj\Debug\IntroADO_NET.csproj.GenerateResource.Cache
+D:\TestCode\WIN\Train\IntroADO_NET\IntroADO_NET\obj\Debug\IntroADO_NET.exe
+D:\TestCode\WIN\Train\IntroADO_NET\IntroADO_NET\obj\Debug\IntroADO_NET.pdb
+D:\TestCode\WIN\Finish\IntroADO_NET\obj\Debug\IntroADO_NET.exe
+D:\TestCode\WIN\Finish\IntroADO_NET\obj\Debug\IntroADO_NET.pdb
+D:\TestCode\WIN\Finish\IntroADO_NET\bin\Debug\IntroADO_NET.exe
+D:\TestCode\WIN\Finish\IntroADO_NET\bin\Debug\IntroADO_NET.pdb
+D:\TestCode\WIN\Finish\IntroADO_NET\obj\Debug\IntroADO_NET.csprojResolveAssemblyReference.cache
+D:\TestCode\WIN\Finish\IntroADO_NET\obj\Debug\IntroADO_NET.frmMaintainBook.resources
+D:\TestCode\WIN\Finish\IntroADO_NET\obj\Debug\IntroADO_NET.Properties.Resources.resources
+D:\TestCode\WIN\Finish\IntroADO_NET\obj\Debug\IntroADO_NET.csproj.GenerateResource.Cache

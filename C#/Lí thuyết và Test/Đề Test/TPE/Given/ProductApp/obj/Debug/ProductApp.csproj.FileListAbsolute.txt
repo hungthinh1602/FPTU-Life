@@ -1,0 +1,11 @@
+D:\FPTU\PRN292\PE\PRN292_Try_Exam_SUM22_1\TPE\Given\ProductApp\bin\Debug\ProductApp.exe.config
+D:\FPTU\PRN292\PE\PRN292_Try_Exam_SUM22_1\TPE\Given\ProductApp\bin\Debug\ProductApp.exe
+D:\FPTU\PRN292\PE\PRN292_Try_Exam_SUM22_1\TPE\Given\ProductApp\bin\Debug\ProductApp.pdb
+D:\FPTU\PRN292\PE\PRN292_Try_Exam_SUM22_1\TPE\Given\ProductApp\obj\Debug\ProductApp.csproj.AssemblyReference.cache
+D:\FPTU\PRN292\PE\PRN292_Try_Exam_SUM22_1\TPE\Given\ProductApp\obj\Debug\ProductApp.csproj.SuggestedBindingRedirects.cache
+D:\FPTU\PRN292\PE\PRN292_Try_Exam_SUM22_1\TPE\Given\ProductApp\obj\Debug\ProductApp.frmProductManager.resources
+D:\FPTU\PRN292\PE\PRN292_Try_Exam_SUM22_1\TPE\Given\ProductApp\obj\Debug\ProductApp.Properties.Resources.resources
+D:\FPTU\PRN292\PE\PRN292_Try_Exam_SUM22_1\TPE\Given\ProductApp\obj\Debug\ProductApp.csproj.GenerateResource.cache
+D:\FPTU\PRN292\PE\PRN292_Try_Exam_SUM22_1\TPE\Given\ProductApp\obj\Debug\ProductApp.csproj.CoreCompileInputs.cache
+D:\FPTU\PRN292\PE\PRN292_Try_Exam_SUM22_1\TPE\Given\ProductApp\obj\Debug\ProductApp.exe
+D:\FPTU\PRN292\PE\PRN292_Try_Exam_SUM22_1\TPE\Given\ProductApp\obj\Debug\ProductApp.pdb

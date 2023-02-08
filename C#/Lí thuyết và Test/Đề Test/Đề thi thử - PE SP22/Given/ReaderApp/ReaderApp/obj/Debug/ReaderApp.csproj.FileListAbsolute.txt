@@ -1,0 +1,29 @@
+D:\Training\TempApp\ReaderApp\ReaderApp\bin\Debug\ReaderApp.exe.config
+D:\Training\TempApp\ReaderApp\ReaderApp\bin\Debug\ReaderApp.exe
+D:\Training\TempApp\ReaderApp\ReaderApp\bin\Debug\ReaderApp.pdb
+D:\Training\TempApp\ReaderApp\ReaderApp\obj\Debug\ReaderApp.frmReaderManager.resources
+D:\Training\TempApp\ReaderApp\ReaderApp\obj\Debug\ReaderApp.Properties.Resources.resources
+D:\Training\TempApp\ReaderApp\ReaderApp\obj\Debug\ReaderApp.csproj.GenerateResource.cache
+D:\Training\TempApp\ReaderApp\ReaderApp\obj\Debug\ReaderApp.csproj.CoreCompileInputs.cache
+D:\Training\TempApp\ReaderApp\ReaderApp\obj\Debug\ReaderApp.exe
+D:\Training\TempApp\ReaderApp\ReaderApp\obj\Debug\ReaderApp.pdb
+C:\Users\Admin\Desktop\Đề thi thử - PE SP22\Given\ReaderApp\ReaderApp\obj\Debug\ReaderApp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Đề thi thử - PE SP22\Given\ReaderApp\ReaderApp\obj\Debug\ReaderApp.frmReaderManager.resources
+C:\Users\Admin\Desktop\Đề thi thử - PE SP22\Given\ReaderApp\ReaderApp\obj\Debug\ReaderApp.Properties.Resources.resources
+C:\Users\Admin\Desktop\Đề thi thử - PE SP22\Given\ReaderApp\ReaderApp\obj\Debug\ReaderApp.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Đề thi thử - PE SP22\Given\ReaderApp\ReaderApp\obj\Debug\ReaderApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Đề thi thử - PE SP22\Given\ReaderApp\ReaderApp\obj\Debug\ReaderApp.exe
+C:\Users\Admin\Desktop\Đề thi thử - PE SP22\Given\ReaderApp\ReaderApp\obj\Debug\ReaderApp.pdb
+C:\Users\Admin\Desktop\Đề thi thử - PE SP22\Given\ReaderApp\ReaderApp\bin\Debug\ReaderApp.exe.config
+C:\Users\Admin\Desktop\Đề thi thử - PE SP22\Given\ReaderApp\ReaderApp\bin\Debug\ReaderApp.exe
+C:\Users\Admin\Desktop\Đề thi thử - PE SP22\Given\ReaderApp\ReaderApp\bin\Debug\ReaderApp.pdb
+C:\Users\Admin\Desktop\Ép Pê Tê\C#\Đề thi thử - PE SP22\Given\ReaderApp\ReaderApp\bin\Debug\ReaderApp.exe.config
+C:\Users\Admin\Desktop\Ép Pê Tê\C#\Đề thi thử - PE SP22\Given\ReaderApp\ReaderApp\bin\Debug\ReaderApp.exe
+C:\Users\Admin\Desktop\Ép Pê Tê\C#\Đề thi thử - PE SP22\Given\ReaderApp\ReaderApp\bin\Debug\ReaderApp.pdb
+C:\Users\Admin\Desktop\Ép Pê Tê\C#\Đề thi thử - PE SP22\Given\ReaderApp\ReaderApp\obj\Debug\ReaderApp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Ép Pê Tê\C#\Đề thi thử - PE SP22\Given\ReaderApp\ReaderApp\obj\Debug\ReaderApp.frmReaderManager.resources
+C:\Users\Admin\Desktop\Ép Pê Tê\C#\Đề thi thử - PE SP22\Given\ReaderApp\ReaderApp\obj\Debug\ReaderApp.Properties.Resources.resources
+C:\Users\Admin\Desktop\Ép Pê Tê\C#\Đề thi thử - PE SP22\Given\ReaderApp\ReaderApp\obj\Debug\ReaderApp.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Ép Pê Tê\C#\Đề thi thử - PE SP22\Given\ReaderApp\ReaderApp\obj\Debug\ReaderApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Ép Pê Tê\C#\Đề thi thử - PE SP22\Given\ReaderApp\ReaderApp\obj\Debug\ReaderApp.exe
+C:\Users\Admin\Desktop\Ép Pê Tê\C#\Đề thi thử - PE SP22\Given\ReaderApp\ReaderApp\obj\Debug\ReaderApp.pdb

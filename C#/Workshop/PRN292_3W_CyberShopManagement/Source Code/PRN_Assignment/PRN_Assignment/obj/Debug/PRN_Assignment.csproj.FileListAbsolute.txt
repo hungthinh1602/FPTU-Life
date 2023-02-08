@@ -1,0 +1,30 @@
+C:\Users\Admin\source\repos\PRN_Assignment\PRN_Assignment\bin\Debug\PRN_Assignment.exe.config
+C:\Users\Admin\source\repos\PRN_Assignment\PRN_Assignment\bin\Debug\PRN_Assignment.exe
+C:\Users\Admin\source\repos\PRN_Assignment\PRN_Assignment\bin\Debug\PRN_Assignment.pdb
+C:\Users\Admin\source\repos\PRN_Assignment\PRN_Assignment\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\PRN_Assignment\PRN_Assignment\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\source\repos\PRN_Assignment\PRN_Assignment\obj\Debug\PRN_Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\PRN_Assignment\PRN_Assignment\obj\Debug\PRN_Assignment.MainForm.resources
+C:\Users\Admin\source\repos\PRN_Assignment\PRN_Assignment\obj\Debug\PRN_Assignment.Properties.Resources.resources
+C:\Users\Admin\source\repos\PRN_Assignment\PRN_Assignment\obj\Debug\PRN_Assignment.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\PRN_Assignment\PRN_Assignment\obj\Debug\PRN_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PRN_Assignment\PRN_Assignment\obj\Debug\PRN_Assignment.csproj.CopyComplete
+C:\Users\Admin\source\repos\PRN_Assignment\PRN_Assignment\obj\Debug\PRN_Assignment.exe
+C:\Users\Admin\source\repos\PRN_Assignment\PRN_Assignment\obj\Debug\PRN_Assignment.pdb
+C:\Users\Admin\source\repos\PRN_Assignment\PRN_Assignment\obj\Debug\PRN_Assignment.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\PRN_Assignment\PRN_Assignment\obj\Debug\PRN_Assignment.Login.resources
+C:\Users\Admin\Desktop\Ép Pê Tê\C#\PRN292_Group__Mã Lớp_SE1503_CyberShopManagement\Source Code\PRN_Assignment\PRN_Assignment\bin\Debug\PRN_Assignment.exe.config
+C:\Users\Admin\Desktop\Ép Pê Tê\C#\PRN292_Group__Mã Lớp_SE1503_CyberShopManagement\Source Code\PRN_Assignment\PRN_Assignment\bin\Debug\PRN_Assignment.exe
+C:\Users\Admin\Desktop\Ép Pê Tê\C#\PRN292_Group__Mã Lớp_SE1503_CyberShopManagement\Source Code\PRN_Assignment\PRN_Assignment\bin\Debug\PRN_Assignment.pdb
+C:\Users\Admin\Desktop\Ép Pê Tê\C#\PRN292_Group__Mã Lớp_SE1503_CyberShopManagement\Source Code\PRN_Assignment\PRN_Assignment\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Ép Pê Tê\C#\PRN292_Group__Mã Lớp_SE1503_CyberShopManagement\Source Code\PRN_Assignment\PRN_Assignment\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\Desktop\Ép Pê Tê\C#\PRN292_Group__Mã Lớp_SE1503_CyberShopManagement\Source Code\PRN_Assignment\PRN_Assignment\obj\Debug\PRN_Assignment.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Ép Pê Tê\C#\PRN292_Group__Mã Lớp_SE1503_CyberShopManagement\Source Code\PRN_Assignment\PRN_Assignment\obj\Debug\PRN_Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Ép Pê Tê\C#\PRN292_Group__Mã Lớp_SE1503_CyberShopManagement\Source Code\PRN_Assignment\PRN_Assignment\obj\Debug\PRN_Assignment.Login.resources
+C:\Users\Admin\Desktop\Ép Pê Tê\C#\PRN292_Group__Mã Lớp_SE1503_CyberShopManagement\Source Code\PRN_Assignment\PRN_Assignment\obj\Debug\PRN_Assignment.MainForm.resources
+C:\Users\Admin\Desktop\Ép Pê Tê\C#\PRN292_Group__Mã Lớp_SE1503_CyberShopManagement\Source Code\PRN_Assignment\PRN_Assignment\obj\Debug\PRN_Assignment.Properties.Resources.resources
+C:\Users\Admin\Desktop\Ép Pê Tê\C#\PRN292_Group__Mã Lớp_SE1503_CyberShopManagement\Source Code\PRN_Assignment\PRN_Assignment\obj\Debug\PRN_Assignment.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Ép Pê Tê\C#\PRN292_Group__Mã Lớp_SE1503_CyberShopManagement\Source Code\PRN_Assignment\PRN_Assignment\obj\Debug\PRN_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Ép Pê Tê\C#\PRN292_Group__Mã Lớp_SE1503_CyberShopManagement\Source Code\PRN_Assignment\PRN_Assignment\obj\Debug\PRN_Assignment.csproj.CopyComplete
+C:\Users\Admin\Desktop\Ép Pê Tê\C#\PRN292_Group__Mã Lớp_SE1503_CyberShopManagement\Source Code\PRN_Assignment\PRN_Assignment\obj\Debug\PRN_Assignment.exe
+C:\Users\Admin\Desktop\Ép Pê Tê\C#\PRN292_Group__Mã Lớp_SE1503_CyberShopManagement\Source Code\PRN_Assignment\PRN_Assignment\obj\Debug\PRN_Assignment.pdb

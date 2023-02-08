@@ -1,0 +1,47 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head runat="server">
+    <title>ASP>NET WebForm</title>
+    <link href="my.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+  <body>
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>my layout</title>
+        <link rel="stylesheet" type="text/css" href="my.css">
+    </head>
+    <body>
+        <header id="header">
+            <h1>Sample Master Page</h1>
+        </header>
+        <nav id="nav">
+            <ul>
+                <li><a href="home.aspx">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Article</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+        <aside id="side">
+            <h1>news</h1>
+            <a href="#">
+                <p>Creating Website</p>
+            </a>
+            <a href="#">
+                <p>Learn Css</p>
+            </a>
+            <a href="#">Learn C#</a>
+        </aside>
+        <div id="con">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <footer id="footer">
+            Copyright ASP.NET WebForm&nbsp;  
+        </footer>
+    </body>
+    </html>   
+</body>
+</html>
