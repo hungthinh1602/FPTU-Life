@@ -41,6 +41,7 @@ public class UserManager {
         String email;
         boolean check = true;
         boolean ValidUser;
+        
         do {
             System.out.println("Input user name: ");
             userName = sc.nextLine();
